@@ -12,5 +12,5 @@ i am basically from pre engeenering background so i do not have much idea about 
 
 ***ORDERED LISTS***
 1. amaya
-2. sana
-3. bushra
+3. sana
+2. bushra
