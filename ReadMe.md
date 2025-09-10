@@ -6,9 +6,9 @@ i am basically from pre engeenering background so i do not have much idea about 
 **this is bold text**
 *i am trying **different styles** of texts*
 ***UNORDERED LISTS***
--george
-+anaya
-*bilal
+ -george
+ +anaya
+ *bilal
 
 ***ORDERED LISTS***
 1.amaya
